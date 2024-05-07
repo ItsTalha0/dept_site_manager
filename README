@@ -1,4 +1,4 @@
-## Website content management system for dept
+# Website content management system for dept
 
 This is a simple content management system designed using 
 ** OpenBsd's httpd slowcgi** and **sqlite**. The front end is 
